@@ -18,7 +18,7 @@ zkSync Era 开发者指南、参考和资源。
 
 [SDK ReferencesReferences for your favorite web3 SDKs.](api/)
 
-
+探索 zkSync Era&#x20;
 
 [zkSync Era PortalBridge, deposit, and withdraw ERC20 tokens.](https://portal.zksync.io/bridge)
 
@@ -26,7 +26,7 @@ zkSync Era 开发者指南、参考和资源。
 
 [Hardhat PluginsExplore Hardhat plugins for your Solidity and Vyper apps.](api/hardhat/getting-started.html)
 
-Tutorials
+教程
 
 [Cross-chain voteUse L1-L2 communication to cast a vote from Ethereum to zkSync Era.](dev/tutorials/cross-chain-tutorial.html)
 
